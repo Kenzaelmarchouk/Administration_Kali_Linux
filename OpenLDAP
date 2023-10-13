@@ -1,1 +1,9 @@
+OpenLDAP (open Lightweight Directory Access Protocol): protocole permettant l'accès à un annuaire centralisé. Il facilite la recherche des informations dans cet annuaire.
+Un annuaire LDAP est une structure hiérarchique sous forme d'un arbre appelée DIT (Directory Information Tree) composé d'ensemble d'attributs disposant d’un identifiant unique DN (Distinguished Name).
+
+L'implémentation:
+1. Windowos: Active Directory
+2. Linux: OpenLDAP, RedHat Directory Studio
+
+SASL ():  une méthode pour ajouter l'authentification aux protocoles LDAP
 
