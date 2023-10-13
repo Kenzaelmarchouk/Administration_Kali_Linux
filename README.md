@@ -3,4 +3,4 @@ Résumé des commandes d'administration de Kali Linux: https://medium.com/@kenza
 
 Resetting the Root Password in Kali Linux: A Step-by-Step Guide : https://medium.com/@kenzamarchouk/resetting-the-root-password-in-kali-linux-a-step-by-step-guide-f44061e7ef70
 
-OpenLDAP: 
+OpenLDAP: https://medium.com/@kenzamarchouk/openldap-6af9f78d8dda
